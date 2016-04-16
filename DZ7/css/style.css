@@ -671,5 +671,40 @@ img {
 
 }
 @media screen and (max-width: 320px) {
-	
+	.navigation_slider_menu {
+    float: right;
+    padding: 93px 100px 55px;
+}
+
+.topblock__navigation {
+ 	display: none;
+}
+.topblock__logo {
+	margin: 0px 0px 0px 80px;
+}
+
+.slider__body__text {
+    width: 100%;
+}
+
+.slider__body__phone {
+	display: none;
+}
+
+.slider__body__text p {
+	display: none;
+}
+
+.update_block_menu_navi {
+    width: 90%;
+}
+
+.footer__menu__all {
+	display: none;
+}
+
+.footer_design {
+    padding: 0px 80px 40px;
+}
+
 }
